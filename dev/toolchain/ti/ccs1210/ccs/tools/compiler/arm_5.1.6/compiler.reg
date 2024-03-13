@@ -1,0 +1,81 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|]
+"ProductName"="Texas Instruments TMS470 Code Generation Tools"
+"VendorName"="Texas Instruments"
+"Version"="VERSIONNUMBER"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R1X\Build Tools\Assembler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R1X\Build Tools\Assembler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R1X\Build Tools\Compiler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R1X\Build Tools\Compiler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R1X\Build Tools\Linker\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\lib\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R2X\Build Tools\Assembler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R2X\Build Tools\Assembler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R2X\Build Tools\Compiler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R2X\Build Tools\Compiler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R2X\Build Tools\Linker\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\lib\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R3X\Build Tools\Assembler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R3X\Build Tools\Assembler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R3X\Build Tools\Compiler\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R3X\Build Tools\Compiler\SearchPath_2]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\include\\rts"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Texas Instruments\CGT_C:|compiler|bin|\TMS470R3X\Build Tools\Linker\SearchPath_1]
+"bActive"=dword:00000001
+"Order"=dword:00000000
+"Path"="SPECIALPATH\\lib\\"
